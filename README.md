@@ -179,10 +179,10 @@ The `footer` should contain any information about **Breaking Changes** and is al
 
 -----
 ## References
-* https://www.conventionalcommits.org/
-* https://github.com/angular/angular/blob/master/CONTRIBUTING.md
-* http://karma-runner.github.io/1.0/dev/git-commit-msg.html
+* [https://www.conventionalcommits.org](https://www.conventionalcommits.org)
+* [https://github.com/angular/angular/blob/master/CONTRIBUTING.md](https://github.com/angular/angular/blob/master/CONTRIBUTING.md)
+* [http://karma-runner.github.io/1.0/dev/git-commit-msg.html](http://karma-runner.github.io/1.0/dev/git-commit-msg.html)
 <br>
 
-* https://github.com/github/platform-samples/tree/master/pre-receive-hooks  
-* https://github.community/t5/GitHub-Enterprise-Best-Practices/Using-pre-receive-hooks-in-GitHub-Enterprise/ba-p/13863
+* [https://github.com/github/platform-samples/tree/master/pre-receive-hooks](https://github.com/github/platform-samples/tree/master/pre-receive-hooks)  
+* [https://github.community/t5/GitHub-Enterprise-Best-Practices/Using-pre-receive-hooks-in-GitHub-Enterprise/ba-p/13863](https://github.community/t5/GitHub-Enterprise-Best-Practices/Using-pre-receive-hooks-in-GitHub-Enterprise/ba-p/13863)
