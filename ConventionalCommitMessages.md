@@ -1,6 +1,8 @@
 # Conventinal Commit Messages 
 See how a minor change to your commit message style can make a difference. [Examples](#examples)
 
+> Note: This is a fork of **[qoomon/conventional_commit_messages](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)**
+
 **Have a look at CLI util [git-conventional-commits](https://github.com/qoomon/git-conventional-commits) to ensure this conventions and generate changelogs**
 
 <img src="https://img.icons8.com/dusk/1600/commit-git.png" width="200" height="200" />
