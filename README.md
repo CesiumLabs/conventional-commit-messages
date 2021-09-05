@@ -1,4 +1,4 @@
-# Conventinal Commit Messages 
+# Conventional Commit Messages 
 See how a minor change to your commit message style can make a difference. [Examples](#examples)
 
 > Note: This is a fork of **[qoomon/conventional_commit_messages](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)**
